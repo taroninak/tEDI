@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Build>
+<Compile>
+<cs>csc %f</cs>
+<java>javac %f</java>
+<pl>perl -c %f</pl>
+<cpp>g++ %f -o %d.exe</cpp>
+<js>node -p %f</js>
+</Compile>
+<Build>
+<cs>csc %f</cs>
+<java>javac %f</java>
+<pl>perl -c %f</pl>
+<cpp>g++ %f -o %d.exe</cpp>
+</Build>
+<Run hideconsole="no">
+<java>java %d</java>
+<cs>csc %f &amp;&amp; %d</cs>
+<java>javac %f &amp;&amp; start cmd java %d</java>
+<pl>perl %f</pl>
+<cpp>g++ %f -o %d.exe &amp;&amp; %d</cpp>
+<js>node %f</js>
+</Run>
+</Build>

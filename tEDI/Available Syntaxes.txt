@@ -1,0 +1,39 @@
+Ada
+Assembly
+Caml
+Bash
+Batch File
+C/C++
+C#
+CMake
+CSS
+D
+Diff
+Erlang
+Fortran 77
+Forth
+Fortran
+Freebasic
+Haskell
+Html
+Java
+Javascript
+LaTeX
+Lisp
+Lua
+Make
+Matlab/Octave
+NSIS
+Pascal
+Perl
+PHP
+Python
+Ruby
+SQL(T-SQL)
+Tcl
+VB Script
+Visual Basic
+Verilog
+VHDL
+XML
+YAML

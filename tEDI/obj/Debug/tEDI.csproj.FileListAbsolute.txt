@@ -1,0 +1,17 @@
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\tEDI.exe.config
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\SciLexer.dll
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\SciLexer64.dll
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\ScintillaNET.dll
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\tEDI.ico
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\Build.xml
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\default.xml
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\tEDI.exe
+D:\Tsragrer\C#\tEDI\tEDI\bin\Debug\tEDI.pdb
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.CommandsNew.resources
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.MainForm.resources
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.csproj.GenerateResource.Cache
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.exe
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.pdb
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.csprojResolveAssemblyReference.cache
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.AboutBox.resources
+D:\Tsragrer\C#\tEDI\tEDI\obj\Debug\tEDI.Properties.Resources.resources
