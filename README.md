@@ -2,8 +2,8 @@
 Simple and lightweight IDE.
 This is a simple IDE created using ScintillaNET component.
 
-EULA
-
+The license for tEDI is as follows:
+-----------------------------------------------------------------------
 tEDI is based on ScintillaNET component by Garrett Serack wich is based on the Scintilla component by Neil Hodgson.
 
 tEDI is released on this same license.
